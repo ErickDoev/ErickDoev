@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ErickDoev
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React 16+
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning React 16+ and Angular
 - 📫 How to reach me: {
   email:'erick.doev@gmail.com',
   github:'ErickDoev',
